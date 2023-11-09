@@ -75,14 +75,24 @@ article h2 {
     font-size: 24px;
 }
 .articles img {
-    background-color: #06fb2b;
+    background-color:
     width: 400px;
     height: 200px;
 }
 
 
+img {
+    /* max-width: 100%;
+    height: auto; */
+    display: block;
+    margin: 10px left; 
+    width: 300px;
+    height: 250px;
+    
+}
 
-
+p {
+    margin: 10px 0; }
 
 
 
