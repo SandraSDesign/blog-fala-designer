@@ -1,0 +1,89 @@
+body {
+    background-color: antiquewhite;
+}
+
+.descricao {
+    margin-top: 20px; 
+    padding: 10px; 
+    }
+#capa img{
+    text-align: center;
+    width:1250px;
+    height:400x;
+}
+
+h1, h2 {
+    font-family: Arial, sans-serif;
+  }
+
+  section {
+    margin: 20px;
+  }
+
+  footer {
+    background-color: rgba(250, 4, 234, 0.825);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  artigos
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #25ABB3;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #ffffff;
+    color: #06fb2b;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section.articles {
+    margin: 20px;
+}
+
+article {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+article h2 {
+    font-size: 24px;
+}
+.articles img {
+    background-color: #06fb2b;
+    width: 400px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
